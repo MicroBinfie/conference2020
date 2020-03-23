@@ -1,39 +1,35 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://happykhan.github.io/conference2020/'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Micro Binfie Virtual Conference 2020',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'An online seminar series chaired by the Micro Binfie Podcast',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Sessions',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'About',
         path: '/about/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'Register to attend',
+        path: '/register/',
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      name: 'Micro Binfie Virtual Conference 2020',
+      email: 'microbinfie@gmail.com',
       rss: '#',
-      vk: '#',
     },
   },
   plugins: [
