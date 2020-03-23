@@ -29,7 +29,7 @@ module.exports = {
     author: {
       name: 'Micro Binfie Virtual Conference 2020',
       email: 'microbinfie@gmail.com',
-      rss: '#',
+      rss: '/rss.xml',
     },
   },
   plugins: [
