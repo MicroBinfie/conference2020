@@ -18,7 +18,7 @@ Zoom link: Coming soon.
 
 Discord link: https://discord.gg/WmuRbD
 
-* 15:00 **Genomic Dynamics of Toxigenic Vibrio cholerae** 
+* 15:00 **Genomic Dynamics of Toxigenic Vibrio cholerae**  
   Taylor Paisie (University of Florida)  
 * 15:30 **Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in Listeria monocytogenes evolutionary lineages**  
   Federica Palma (ANSES)
