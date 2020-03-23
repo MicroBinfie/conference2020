@@ -1,276 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Micro Binfie Virtual Conference 2020]]></title><description><![CDATA[An online seminar series chaired by the Micro Binfie Podcast]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Mar 2020 20:33:46 GMT</lastBuildDate><item><title><![CDATA[Session 1]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://lumen.netlify.com/posts/session-1/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-1/</guid><pubDate>Wed, 15 Apr 2020 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Time: 16:00 15 April 2020 (UTC) &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Micro Binfie Virtual Conference 2020]]></title><description><![CDATA[An online seminar series chaired by the Micro Binfie Podcast]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Mar 2020 23:12:14 GMT</lastBuildDate><item><title><![CDATA[Session 4, 6th May 2020]]></title><description><![CDATA[With talks from Leonardo de Oliveira Martins, Inês Mendes and Rebecca Ansorge]]></description><link>https://lumen.netlify.com/posts/session-4</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-4</guid><pubDate>Wed, 06 May 2020 16:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Schedule&lt;/h1&gt;
+&lt;p&gt;Time: 16:00 6 May 2020 (UTC) &lt;/p&gt;
 &lt;p&gt;Zoom link: Coming soon.&lt;/p&gt;
 &lt;p&gt;Discord link: &lt;a href=&quot;https://discord.gg/WmuRbD&quot;&gt;https://discord.gg/WmuRbD&lt;/a&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Theme&lt;/th&gt;
-&lt;th&gt;Talk Title&lt;/th&gt;
-&lt;th&gt;Speaker&lt;/th&gt;
-&lt;th&gt;Video link&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00:00&lt;/td&gt;
-&lt;td&gt;Population genetics and Microbial epidemiology&lt;/td&gt;
-&lt;td&gt;EnteroBase: exploit core genomic diversity of bacterial pathogens&lt;/td&gt;
-&lt;td&gt;Zhemin Zhou (University of Warwick)&lt;/td&gt;
-&lt;td&gt;None yet&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30:00&lt;/td&gt;
-&lt;td&gt;Bioinformatics software and protocols&lt;/td&gt;
-&lt;td&gt;Intro to IRIDA Pipeline Plugins&lt;/td&gt;
-&lt;td&gt;Dan Fornika (BCCDC Public Health Laboratory)&lt;/td&gt;
-&lt;td&gt;None yet&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:00:00&lt;/td&gt;
-&lt;td&gt;Population genetics and Microbial epidemiology&lt;/td&gt;
-&lt;td&gt;cgMLST Re-visited: Evolvement and Challenges&lt;/td&gt;
-&lt;td&gt;Dag Harmsen (Univ. Münster, Germany)&lt;/td&gt;
-&lt;td&gt;None yet&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Session 4]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://lumen.netlify.com/posts/session-4/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-4/</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
-&lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
-	
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Gutenberg-3e20438298edd3a3fa746766d803f379-a74ca.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 374px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.3422459893048%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFxLehXJYBWmjgwH//EABsQAAIDAQEBAAAAAAAAAAAAAAECAAMRBBIT/9oACAEBAAEFAum4iBrK2rf2hI3YjFZdV5JyV14rDV5wPpP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAfEAACAgAHAQAAAAAAAAAAAAAAAREhAhASIjFRobH/2gAIAQEABj8C04RX6SOTd8HA+nY7LHJxl//EAB4QAQACAgIDAQAAAAAAAAAAAAEAIRExQVEQcZGB/9oACAEBAAE/IUlcYquWd5HgP0gEf0is3efsU6aL6QIa5zMz1Q9ynDYIVS24QAJjmZSlarx//9oADAMBAAIAAwAAABDwyTz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAfEAEAAgICAgMAAAAAAAAAAAABABEhMUFRYXEQgaH/2gAIAQEAAT8QQiVZ26PU16WOg3QsAalx0JshMuRU4V1f3FBK8UybzfNy8S2r0QjsuzybSCl5ZOS/YeMGPyWUUwLI11aLgw+Pj//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gutenberg&quot; title=&quot;&quot; src=&quot;/static/Gutenberg-3e20438298edd3a3fa746766d803f379-a74ca.jpg&quot; srcset=&quot;/static/Gutenberg-3e20438298edd3a3fa746766d803f379-79241.jpg 240w,
-/static/Gutenberg-3e20438298edd3a3fa746766d803f379-a74ca.jpg 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-	&lt;figcaption&gt;Johannes Gutenberg&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;With his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg’s method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.&lt;/p&gt;
-&lt;p&gt;In Renaissance Europe, the arrival of mechanical movable type printing introduced the era of mass communication which permanently altered the structure of society. The relatively unrestricted circulation of information — including revolutionary ideas — transcended borders, captured the masses in the Reformation and threatened the power of political and religious authorities; the sharp increase in literacy broke the monopoly of the literate elite on education and learning and bolstered the emerging middle class. Across Europe, the increasing cultural self-awareness of its people led to the rise of proto-nationalism, accelerated by the flowering of the European vernacular languages to the detriment of Latin’s status as lingua franca. In the 19th century, the replacement of the hand-operated Gutenberg-style press by steam-powered rotary presses allowed printing on an industrial scale, while Western-style printing was adopted all over the world, becoming practically the sole medium for modern bulk printing.&lt;/p&gt;
-&lt;p&gt;The use of movable type was a marked improvement on the handwritten manuscript, which was the existing method of book production in Europe, and upon woodblock printing, and revolutionized European book-making. Gutenberg’s printing technology spread rapidly throughout Europe and later the world.&lt;/p&gt;
-&lt;p&gt;His major work, the Gutenberg Bible (also known as the 42-line Bible), has been acclaimed for its high aesthetic and technical quality.&lt;/p&gt;
-&lt;h2&gt;Printing Press&lt;/h2&gt;
-&lt;p&gt;Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.&lt;/p&gt;
-&lt;figure class=&quot;float-left&quot; style=&quot;width: 240px&quot;&gt;
-	
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Printing-press-9ec265253f068855f00558a9be7f3e03-e45ee.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 754px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.91246684350133%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsSAAALEgHS3X78AAAEUklEQVQ4yzWUR0tlSxSF60c4cvBQxIE6UXGiOBBBERXFCKY2Yc4555zbnHPOOeecUXyImBFp9KHy0BZ1Zn/nXroGhzpVtfdea+1VJZ6entbW1k5OTv6VjYODg+3t7a2trY2Njb29vcPDw6OjI77r6+ubm5ss7uzszM3NTUxM3N7eipWVFS8vL39//5iYmMTExNDQ0Pj4+KysLBZ/yIaPjw8rISEhTNzc3FxcXDIzM62trVtbW8Xi4mJkZCRHvb29IyIiAgMDCeAoizY2Nra2thUVFeHh4cydnZ0JNjU1zcvLY97c3CxmZmZYYptzZmZmGhoaSkpK/8iGoqKipqamiYlJW1uboaEhk7i4OL66urr6+vpSZShBsra2luKAcXJyAoKBgYGenp62tnZ6ejpEAFJQUAAWaINZVVVVRUWlurpanJ2ddXZ2RkdHt7e3s52bm8sqqMDm6uoaHByMWmQkGM3c3d3T0tIsLS2VlZUl2ASXl5ezNzg4iGalpaUdHR0cQjz4IxKNQAskNDc3F0KQlGBIwUXc3NwQVlhY2NPTk5SUlJqaWlxcDH5YGRsbA5jmATUoKEhdXZ2kLS0tWlpaCgoK4BV3d3ejo6N1dXX8ABvCDg4OHEJFONvZ2cHip2yQl10w8kWIvr4+cXFxMTAwADBSZmRk0BJHR8fk5GRqWlhYIFtlZWV+fj7BbOno6JSVlbEbGxs7MjIice7t7YUqlYlH3uzsbMQgPZxBCy4iU1JSQATtmpoaWFCMdXF5eTk7Ozs+Pk7PioqKqEMDyQp/RFpYWGDFysqKYDqC1E1NTXQbOYeGhgQ2rq+vJwzZ6BbEOIft6DzBIKJtGIN15tQANis4anh4WOzv75+fn+MTrLa8vExiUmBJctNz5OEc+tECjIXOVAK/r6+vFEzl09NTUuzu7tI6aHOZuDqcDgsLow4sCEBLCqIZLgAIREAqaCPdwkaYgYuGyLBFs4aGBipzlCw5OTl8uTA0Hy2joqL8/PzGxsakW4WY8maQDBkRBpFRG8AeHh40H53ImJCQQDqAIJiRkRE9ElNTU+gJT5boVmNjIx4GSHd3N/ixp6enJ+34/v7m2bi6usKR9Jn7ByipMud4HKqqqshKPpgvLS2trq4iHm6n8+hPXlLgtv7+fpTnhvIrqENxZqTki+nAj/LHx8egRWGkhiRawJZI5OCq2dvbc0bwLCE4bGkspuNVCAgIQGeYoxD25OlAXm6S3HMA4VXijGQSgq+vr0mjpqZGM9hmD/7ya4gT5cai4fxCjbZxFzAMKKQH8OPjgz5xUbArxgQ5BkBCukX6rq4uCLPOnHUi5V5CKcHs/f0dGbmVJMMVnCaevcnJyfn5eb5oMT09jQuIRGQSlZSUSG8Y1iceeWkYYEjBKpG8DfKjzPmiFveJNwfn0k6Y0yDx+fn5+Pj4/Pz8+vr6++94e3t7lY3/ZePl5eU/2Xh4ePglG/f3919fX38AEQttJBy4KAgAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Early Printing Press&quot; title=&quot;&quot; src=&quot;/static/Printing-press-9ec265253f068855f00558a9be7f3e03-e45ee.png&quot; srcset=&quot;/static/Printing-press-9ec265253f068855f00558a9be7f3e03-309d8.png 240w,
-/static/Printing-press-9ec265253f068855f00558a9be7f3e03-1d2a3.png 480w,
-/static/Printing-press-9ec265253f068855f00558a9be7f3e03-e45ee.png 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-	&lt;figcaption&gt;Early wooden printing press as depicted in 1568.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Until at least 1444 he lived in Strasbourg, most likely in the St. Arbogast parish. It was in Strasbourg in 1440 that Gutenberg is said to have perfected and unveiled the secret of printing based on his research, mysteriously entitled Kunst und Aventur (art and enterprise). It is not clear what work he was engaged in, or whether some early trials with printing from movable type may have been conducted there. After this, there is a gap of four years in the record. In 1448, he was back in Mainz, where he took out a loan from his brother-in-law Arnold Gelthus, quite possibly for a printing press or related paraphernalia. By this date, Gutenberg may have been familiar with intaglio printing; it is claimed that he had worked on copper engravings with an artist known as the Master of Playing Cards.&lt;/p&gt;
-&lt;p&gt;By 1450, the press was in operation, and a German poem had been printed, possibly the first item to be printed there. Gutenberg was able to convince the wealthy moneylender Johann Fust for a loan of 800 guilders. Peter Schöffer, who became Fust’s son-in-law, also joined the enterprise. Schöffer had worked as a scribe in Paris and is believed to have designed some of the first typefaces.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;—Future pope Pius II in a letter to Cardinal Carvajal, March 1455&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;Gutenberg’s workshop was set up at Hof Humbrecht, a property belonging to a distant relative. It is not clear when Gutenberg conceived the Bible project, but for this he borrowed another 800 guilders from Fust, and work commenced in 1452. At the same time, the press was also printing other, more lucrative texts (possibly Latin grammars). There is also some speculation that there may have been two presses, one for the pedestrian texts, and one for the Bible. One of the profit-making enterprises of the new press was the printing of thousands of indulgences for the church, documented from 1454–55.&lt;/p&gt;
-&lt;p&gt;In 1455 Gutenberg completed his 42-line Bible, known as the Gutenberg Bible. About 180 copies were printed, most on paper and some on vellum.&lt;/p&gt;
-&lt;h2&gt;Court Case&lt;/h2&gt;
-&lt;p&gt;Some time in 1456, there was a dispute between Gutenberg and Fust, and Fust demanded his money back, accusing Gutenberg of misusing the funds. Meanwhile the expenses of the Bible project had proliferated, and Gutenberg’s debt now exceeded 20,000 guilders. Fust sued at the archbishop’s court. A November 1455 legal document records that there was a partnership for a “project of the books,” the funds for which Gutenberg had used for other purposes, according to Fust. The court decided in favor of Fust, giving him control over the Bible printing workshop and half of all printed Bibles.&lt;/p&gt;
-&lt;p&gt;Thus Gutenberg was effectively bankrupt, but it appears he retained (or re-started) a small printing shop, and participated in the printing of a Bible in the town of Bamberg around 1459, for which he seems at least to have supplied the type. But since his printed books never carry his name or a date, it is difficult to be certain, and there is consequently a considerable scholarly debate on this subject. It is also possible that the large Catholicon dictionary, 300 copies of 754 pages, printed in Mainz in 1460, may have been executed in his workshop.&lt;/p&gt;
-&lt;p&gt;Meanwhile, the Fust–Schöffer shop was the first in Europe to bring out a book with the printer’s name and date, the Mainz Psalter of August 1457, and while proudly proclaiming the mechanical process by which it had been produced, it made no mention of Gutenberg.&lt;/p&gt;
-&lt;h2&gt;Later Life&lt;/h2&gt;
-&lt;p&gt;In 1462, during a conflict between two archbishops, Mainz was sacked by archbishop Adolph von Nassau, and Gutenberg was exiled. An old man by now, he moved to Eltville where he may have initiated and supervised a new printing press belonging to the brothers Bechtermünze.&lt;/p&gt;
-&lt;p&gt;In January 1465, Gutenberg’s achievements were recognized and he was given the title Hofmann (gentleman of the court) by von Nassau. This honor included a stipend, an annual court outfit, as well as 2,180 litres of grain and 2,000 litres of wine tax-free. It is believed he may have moved back to Mainz around this time, but this is not certain.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Gutenberg died in 1468 and was buried in the Franciscan church at Mainz, his contributions largely unknown. This church and the cemetery were later destroyed, and Gutenberg’s grave is now lost.&lt;/p&gt;
-&lt;p&gt;In 1504, he was mentioned as the inventor of typography in a book by Professor Ivo Wittig. It was not until 1567 that the first portrait of Gutenberg, almost certainly an imaginary reconstruction, appeared in Heinrich Pantaleon’s biography of famous Germans.&lt;/p&gt;
-&lt;h2&gt;Printing Method With Movable Type&lt;/h2&gt;
-&lt;p&gt;Gutenberg’s early printing process, and what tests he may have made with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts. Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-94ac0.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.43356643356644%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlT8ktxAf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARAkH/2gAIAQEAAQUC8tkNJ7x//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAETFR/9oACAEBAAY/AidlLOv/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhUUH/2gAIAQEAAT8hGrOMO3FDOPkxyVDQxUc5LGi7sRCp/9oADAMBAAIAAwAAABDQD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QCwb/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVFB4WGR8P/aAAgBAQABPxBGghtORln24lVU05k694Azw6uOmDAwiT2+ct3AIWn7eBEac//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Movable metal type, and composing stick, descended from Gutenberg&apos;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
-        title=&quot;&quot;
-        src=&quot;/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-d564d.jpg&quot;
-        srcset=&quot;/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-865fd.jpg 240w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-d40a0.jpg 480w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-d564d.jpg 960w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-c67c1.jpg 1440w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-667be.jpg 1920w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-94ac0.jpg 2288w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Movable metal type, and composing stick, descended from Gutenberg’s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Gutenberg’s technique of making movable type remains unclear. In the following decades, punches and copper matrices became standardized in the rapidly disseminating printing presses across Europe. Whether Gutenberg used this sophisticated technique or a somewhat primitive version has been the subject of considerable debate.&lt;/p&gt;
-&lt;p&gt;In the standard process of making type, a hard metal punch (made by punchcutting, with the letter carved back to front) is hammered into a softer copper bar, creating a matrix. This is then placed into a hand-held mould and a piece of type, or “sort”, is cast by filling the mould with molten type-metal; this cools almost at once, and the resulting piece of type can be removed from the mould. The matrix can be reused to create hundreds, or thousands, of identical sorts so that the same character appearing anywhere within the book will appear very uniform, giving rise, over time, to the development of distinct styles of typefaces or fonts. After casting, the sorts are arranged into type-cases, and used to make up pages which are inked and printed, a procedure which can be repeated hundreds, or thousands, of times. The sorts can be reused in any combination, earning the process the name of “movable type”.&lt;/p&gt;
-&lt;p&gt;The invention of the making of types with punch, matrix and mold has been widely attributed to Gutenberg. However, recent evidence suggests that Gutenberg’s process was somewhat different. If he used the punch and matrix approach, all his letters should have been nearly identical, with some variations due to miscasting and inking. However, the type used in Gutenberg’s earliest work shows other variations.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;It is a press, certainly, but a press from which shall flow in inexhaustible streams… Through it, god will spread his word.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;—Johannes Gutenberg&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;In 2001, the physicist Blaise Agüera y Arcas and Princeton librarian Paul Needham, used digital scans of a Papal bull in the Scheide Library, Princeton, to carefully compare the same letters (types) appearing in different parts of the printed text. The irregularities in Gutenberg’s type, particularly in simple characters such as the hyphen, suggested that the variations could not have come from either ink smear or from wear and damage on the pieces of metal on the types themselves. While some identical types are clearly used on other pages, other variations, subjected to detailed image analysis, suggested that they could not have been produced from the same matrix. Transmitted light pictures of the page also appeared to reveal substructures in the type that could not arise from traditional punchcutting techniques. They hypothesized that the method may have involved impressing simple shapes to create alphabets in “cuneiform” style in a matrix made of some soft material, perhaps sand. Casting the type would destroy the mould, and the matrix would need to be recreated to make each additional sort. This could explain the variations in the type, as well as the substructures observed in the printed images.&lt;/p&gt;
-&lt;p&gt;Thus, they feel that “the decisive factor for the birth of typography”, the use of reusable moulds for casting type, might have been a more progressive process than was previously thought. They suggest that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains very uncertain.&lt;/p&gt;
-&lt;p&gt;A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster, while it actually credits Gutenberg as the “first inventor of printing” in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471, and the Coster connection is today regarded as a mere legend.&lt;/p&gt;
-&lt;p&gt;The 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.&lt;/p&gt;
-&lt;p&gt;It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Session 2]]></title><description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.]]></description><link>https://lumen.netlify.com/posts/session-2</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-2</guid><pubDate>Thu, 01 Dec 2016 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. &lt;/p&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-5b032.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHflc0iMP/EABoQAQADAAMAAAAAAAAAAAAAAAIAARIDITL/2gAIAQEAAQUCazPUfISkq0O4hq//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARIVFh/9oACAEBAAY/AumSqLE9OP/EABsQAAIDAQEBAAAAAAAAAAAAAAABESExQXGx/9oACAEBAAE/IUVVi23Dn00T0lpaYnT6JkfKP//aAAwDAQACAAMAAAAQzy//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EFEYf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxB1n//EABsQAQEBAAMBAQAAAAAAAAAAAAERACExUUGh/9oACAEBAAE/EDQKdHmA9UQLwQ/M6hQVLmMVa1OjN+ctDjjEqA108Xf/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-        title=&quot;&quot;
-        src=&quot;/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-d564d.jpg&quot;
-        srcset=&quot;/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-865fd.jpg 240w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-d40a0.jpg 480w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-d564d.jpg 960w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-c67c1.jpg 1440w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-5b032.jpg 1800w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;h2&gt;Header Level 2&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;15:00 &lt;strong&gt;From phylogenetics to phylogenomics: between bacterial strains and the tree of life&lt;/strong&gt;&lt;br&gt;
+Leonardo de Oliveira Martins  (Quadram Institute Bioscience)  &lt;/li&gt;
+&lt;li&gt;15:30 &lt;strong&gt;DEN-IM: dengue virus genotyping from amplicon and shotgun metagenomic sequencing&lt;/strong&gt;&lt;br&gt;
+Inês Mendes (Instituto de Medicina Molecular)&lt;/li&gt;
+&lt;li&gt;16:00 &lt;strong&gt;Same same but different: Functional diversity despite identical 16S rRNA sequences&lt;/strong&gt;&lt;br&gt;
+Rebecca Ansorge (Quadram Institute Bioscience)   &lt;/li&gt;
+&lt;li&gt;16:20 &lt;strong&gt;Virtual coffee break&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Aliquam tincidunt mauris eu risus.&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;h3&gt;Header Level 3&lt;/h3&gt;
+&lt;h2&gt;From phylogenetics to phylogenomics: between bacterial strains and the tree of life&lt;/h2&gt;
+&lt;p&gt;With the amount and velocity of genomic data currently available, it became clear that no single gene, or even carefully selected gene sets, can provide a single evolutionary tree with confidence. We can therefore appreciate that apparently conflicting phylogenetic signals are not noise, but in fact reflect real biological phenomena ―  like duplications, lateral transfer, or ancestral polymorphisms. Phylogenomic models explicitly recognise this variation in evolutionary histories across the genome, allowing us to make most use of sequenced genomes. In this talk we will have an overview of popular models, as well as of emerging methodologies that can handle whole genomes from hundreds or thousands of samples.  We will also discuss favourite approaches in different fields, where the genomic sets may resemble closer a “tall” (fewer information from many samples) or a“wide” (fewer samples, with more information) data category. (20~30 minutes, negociable) &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://leomrtns.github.io&quot;&gt;https://leomrtns.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;DEN-IM: dengue virus genotyping from amplicon and shotgun metagenomic sequencing&lt;/h2&gt;
+&lt;p&gt;Dengue virus (DENV) represents a public health threat and economic burden in affected countries. The availability of genomic data is key to understanding viral evolution and dynamics, supporting improved control strategies. Currently, the use of high-throughput sequencing (HTS) technologies, which can be applied both directly to patient samples (shotgun metagenomics) and to PCR-amplified viral sequences (amplicon sequencing), is potentially the most informative approach to monitor viral dissemination and genetic diversity by providing, in a single methodological step, identification and characterization of the whole viral genome at the nucleotide level. Despite many advantages, these technologies require bioinformatics expertise and appropriate infrastructure for the analysis and interpretation of the resulting data. In addition, the many software solutions available can hamper the reproducibility and comparison of results. Here we present DEN-IM, a one-stop, user-friendly, containerized and reproducible workflow for the analysis of DENV short-read sequencing data from both amplicon and shotgun metagenomics approaches. It is able to infer the DENV coding sequence (CDS), identify the serotype and genotype, and generate a phylogenetic tree. It can easily be run on any UNIX-like system, from local machines to high-performance computing clusters, performing a comprehensive analysis without the requirement for extensive bioinformatics expertise. Using DEN-IM, we successfully analysed two types of DENV datasets. The first comprised 25 shotgun metagenomic sequencing samples from patients with variable serotypes and genotypes, including an in vitro spiked sample containing the four known serotypes. The second consisted of 106 paired-end and 76 single-end amplicon sequences of DENV 3 genotype III and DENV 1 genotype I, respectively, where DEN-IM allowed detection of the intra-genotype diversity. The DEN-IM workflow, parameters and execution configuration files, and documentation are freely available at &lt;a href=&quot;https://github.com/B-UMMI/DEN-IM&quot;&gt;https://github.com/B-UMMI/DEN-IM&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Inês Mendes is currently a PhD student at Instituto de Medicina Molecular and University Medical Center Groningen.
+Her formal education started, in 2011, in Cellular and Molecular Biology, in Faculdade de Ciências e Tecnologia - Universidade Nova de Lisboa, followed by a Master degree in 2014 in Bioinformatics and Computational Biology in Faculdade de Ciências - Universidade de Lisboa. Inês joined the Instituto de Medicina Molecular, at the Mário Ramirez Lab as a master student in 2015 where she used a variety of open source tools, and developed her own scripts, in Python, for the analysis of Streptococcus dysgalactiae genomes recovered from different sources (both human and animal). Since then, she remained a member of the MRamirez Lab as a Bioinformatician where I developed and maintain in house tools and scripts and perform various analysis using a variety of open source tools.&lt;/p&gt;
+&lt;p&gt;In 2018 Inês began a PhD in Bioinformatics, in collaboration with University Medical Center Groningen, focused on metagenomics, validation and reproducibility, specially relevant when analyzing clinical data. Her work is supervised by Dr. João André Carriço and Prof. Dr. Mário Ramirez, from University of Lisbon, and Prof. Dr. John W A Rossen, from University of Groningen.&lt;/p&gt;
+&lt;h2&gt;Same same but different: Functional diversity despite identical 16S rRNA sequences&lt;/h2&gt;
+&lt;p&gt;The 16S rRNA sequence is commonly considered a gold standard to determine the diversity in microbial communities. But how much diversity do we miss when we stop there? We investigated a low-diversity symbiosis between deep-sea bivalves and their bacterial symbionts using their metagenomic information. Despite identical 16S sequences we found as many as 16 intracellular symbiont strains to co-exist in single host individuals. We used nucleotide polymorphism and read coverage information to tease apart strain-level differences within symbiont populations. This approach revealed extensive differences in the gene content of these strains, that are otherwise unaccessible from the MAGs. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Session 3, 29nd April 2020]]></title><description><![CDATA[With talks from Conor Meehan, Shatavia Morrison and Rebecca Bengtsson]]></description><link>https://lumen.netlify.com/posts/session-3</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-3</guid><pubDate>Wed, 29 Apr 2020 16:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Schedule&lt;/h1&gt;
+&lt;p&gt;Time: 16:00 22 April 2020 (UTC) &lt;/p&gt;
+&lt;p&gt;Zoom link: Coming soon.&lt;/p&gt;
+&lt;p&gt;Discord link: &lt;a href=&quot;https://discord.gg/WmuRbD&quot;&gt;https://discord.gg/WmuRbD&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;15:00 &lt;strong&gt;Discovery of a new lineage of Mycobacterium tuberculosis&lt;/strong&gt;
+Conor Meehan (University of Bradford)  &lt;/li&gt;
+&lt;li&gt;15:30 &lt;strong&gt;Machine Learning and Whole Genome Sequencing: Dragging classical method of Legionella pneumophila serotyping, kicking and screaming, into the 21st century&lt;/strong&gt;&lt;br&gt;
+Shatavia Morrison (CDC - NCIRD/DBD/RDB)&lt;/li&gt;
+&lt;li&gt;16:00 &lt;strong&gt;Combating shigellosis in endemic settings with pathogen genomics&lt;/strong&gt;&lt;br&gt;
+Rebecca Bengtsson (The University of Liverpool)   &lt;/li&gt;
+&lt;li&gt;16:20 &lt;strong&gt;Virtual coffee break&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#header h1 a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; block&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 300px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Session 3]]></title><description><![CDATA[Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.]]></description><link>https://lumen.netlify.com/posts/session-3/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-3/</guid><pubDate>Tue, 02 Feb 2016 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. &lt;/p&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-5b032.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAFYTebWei//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIhAxESMkH/2gAIAQEAAQUCBQkPxvKp6d//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhYXH/2gAIAQEABj8CmhaPp//EABwQAAMBAAIDAAAAAAAAAAAAAAERIQAxQWFxgf/aAAgBAQABPyFql7wy4DI95FkPziaZIrc400T9xRmIQ3//2gAMAwEAAgADAAAAEHcv/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EEoQ/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EG6U/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYVFxsf/aAAgBAQABPxAajTkHHCQKTVidt9R1VUy2YhWWHFuu/kBSlnIG7EIXmC3n3P/Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-        title=&quot;&quot;
-        src=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d564d.jpg&quot;
-        srcset=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-865fd.jpg 240w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d40a0.jpg 480w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d564d.jpg 960w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-c67c1.jpg 1440w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-5b032.jpg 1800w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;h2&gt;Header Level 2&lt;/h2&gt;
+&lt;h2&gt;Discovery of a new lineage of Mycobacterium tuberculosis&lt;/h2&gt;
+&lt;p&gt;The human- and animal-adapted lineages of the Mycobacterium tuberculosis complex (MTBC) are thought to have clonally expanded from a common progenitor in Africa. However, the molecular events that accompanied this emergence remain largely unknown. Here, we describe two MTBC strains isolated from patients with multidrug-resistant tuberculosis, representing an as-yet-unknown lineage, named Lineage 8 (L8), restricted to the African Great Lakes region. Using genome-based phylogenetic reconstruction, we show that L8 is a sister clade to the known MTBC lineages. Comparison with other complete mycobacterial genomes indicate that the divergence of L8 preceded the loss of the cobF genome region - involved in the cobalamin/vitamin B12 synthesis - and gene interruptions in a subsequent common ancestor shared by all other known MTBC lineages. This discovery further supports an East African origin for the MTBC and provides additional molecular clues on the ancestral genome reduction associated with adaptation to a pathogenic lifestyle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bradford.ac.uk/staff/cmeehan2&quot;&gt;https://www.bradford.ac.uk/staff/cmeehan2&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Machine Learning and Whole Genome Sequencing: Dragging classical method of Legionella pneumophila serotyping, kicking and screaming, into the 21st century&lt;/h2&gt;
+&lt;h2&gt;Combating shigellosis in endemic settings with pathogen genomic&lt;/h2&gt;
+&lt;p&gt;The Global Enteric Multicentre Study (GEMS) identified Shigella as one of the leading causes of moderate-to-severe diarrhoea in children across seven African and Asian countries. However, increasing antimicrobial resistance (AMR) and lack of a licensed vaccine, means that treatment and management options for shigellosis are limited. Whole-genome sequencing analysis (WGSA) can be effectively used to investigate AMR and epidemiological surveillance of Shigella, but this has yet to be applied in countries where childhood mortality rates are the highest and the disease is endemic. Here, we performed WGSA of Shigella isolates from GEMS (255 S. sonnei and 759 S. flexneri) to explore the implications of AMR and genetic diversity relating to vaccination, to improve interventions and management of shigellosis.&lt;/p&gt;
+&lt;p&gt;We detected multiple, independent acquisitions of mutations conferring reduced susceptibility to ciprofloxacin (the current recommended treatment) among isolates from Asia, reflecting selection due to heavy usage of the drug in these regions. While vaccination is a good alternative for management of shigellosis, we revealed implications which may impact the likely effectiveness of multiple approaches. These include, sequence variation within known epitopes of several antigen-vaccine candidates (eg. IpaB). Serotype switching, which may compromise immune protection induced by serotype-specific glycoconjugate vaccines. To help inform effective implementation of such vaccination programs, temporal analysis was used to estimate anticipated time frames over which serotype switching may lead to vaccine escape. In conclusion, WGSA of this representative dataset has provided valuable information to guide treatment and management of shigellosis through antimicrobial therapy and vaccination.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baker-lab.github.io/&quot;&gt;https://baker-lab.github.io/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Session 2, 22nd April 2020]]></title><description><![CDATA[With talks from Taylor Paisie, Federica Palma and Melinda Ashcroft]]></description><link>https://lumen.netlify.com/posts/session-2</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-2</guid><pubDate>Wed, 22 Apr 2020 16:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Schedule&lt;/h1&gt;
+&lt;p&gt;Time: 16:00 22 April 2020 (UTC) &lt;/p&gt;
+&lt;p&gt;Zoom link: Coming soon.&lt;/p&gt;
+&lt;p&gt;Discord link: &lt;a href=&quot;https://discord.gg/WmuRbD&quot;&gt;https://discord.gg/WmuRbD&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;15:00 &lt;strong&gt;Genomic Dynamics of Toxigenic Vibrio cholerae&lt;/strong&gt;
+Taylor Paisie (University of Florida)  &lt;/li&gt;
+&lt;li&gt;15:30 &lt;strong&gt;Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in Listeria monocytogenes evolutionary lineages&lt;/strong&gt;&lt;br&gt;
+Federica Palma (ANSES)&lt;/li&gt;
+&lt;li&gt;15:50 &lt;strong&gt;Whole genome sequencing reveals limited within-host variability in Neisseria gonorrhoeae from multiple anatomical sites&lt;/strong&gt;&lt;br&gt;
+Melinda Ashcroft (The Peter Doherty Institute of Infection and Immunity at The University of Melbourne)   &lt;/li&gt;
+&lt;li&gt;16:20 &lt;strong&gt;Virtual coffee break&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Aliquam tincidunt mauris eu risus.&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;h3&gt;Header Level 3&lt;/h3&gt;
+&lt;h2&gt;Genomic Dynamics of Toxigenic Vibrio cholerae&lt;/h2&gt;
+&lt;p&gt;I am a PhD Candidate studying the phylodynamics of Vibrio cholerae.  I received by bachelor’s degree in Biology from Florida State University.  My current projects include studying the evolution of V. cholerae in Haiti and the Democratic Republic of Congo.  I am interested in studying computational techniques and methods to help conduct phylodynamic analysis on whole genomes of infectious disease pathogens.  In my free time I enjoy your typical nerd activities, such as discussing Game of Thrones at great lengths and playing video games too late into the night (only on the weekends of course).  I also enjoy practicing yoga and being anywhere on the water in Florida.  Also, I love MY cats, Arya and Hamilton. &lt;/p&gt;
+&lt;p&gt;Github:  &lt;a href=&quot;https://github.com/taylorpaisie&quot;&gt;https://github.com/taylorpaisie&lt;/a&gt;
+Twitter:  &lt;a href=&quot;https://twitter.com/tpaisie&quot;&gt;https://twitter.com/tpaisie&lt;/a&gt;
+Linkedin:  &lt;a href=&quot;https://www.linkedin.com/in/taylorpaisie/&quot;&gt;https://www.linkedin.com/in/taylorpaisie/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in Listeria monocytogenes evolutionary lineages&lt;/h2&gt;
+&lt;p&gt;Sanitation practices are essential to reduce the risk of Listeria monocytogenes (Lm) contaminations along the food chain, yet the outstanding tolerance of some strains to biocides challenges food safety. This study aims to apply hybrid tools, implementing a combination of continuous phenotypes, statistical and phylogenomic methods, to characterize the Lm genomic determinants increasing tolerance to biocides used in the food industry at the pangenomic scale.
+A genome-wide association study (GWAS) was performed on 188 strains isolated from ready-to-eat foods, wild and farm animals/environments. These strains were accurately selected from the wide collection of the research project LISTADAPT to encompass the genomic diversity of Lm clonal complexes (CC) observed in Europe. Generalized linear models with advanced correction for population structure considering homologous recombination events from the coregenome were used to test for associations between pangenomic orthologous genes (POG) and minimum inhibitory concentrations (MIC) of eight biocides.
+Strong causal associations (lrt-pvalue&amp;#x3C;4.69E-05 – Bonferroni correction at 5%) for benzalkonium chloride (BC) were identified in clusters of POGs depicting mobile genomic elements (MGE) like the Tn6188 transposon and pLMST6 plasmid. Increased tolerance to BC was previously described in Lm strains harbouring these MGEs. Visually inflated quantile-quantile plots from GWAS pointed to a cluster of 24 POGs, part of large plasmids known to be involved in Lm survival to food-processing stress, also associated to BC-tolerance at less stringent significance levels (lrt-pvalue&amp;#x3C;1.61E-04). Below this genome-wide significance level, the pLMST6 was also associated with didecyldimethylammonium chloride (DDAC), a quaternary ammonium compound (QAC) with bactericidal action similar to BC. As expected, no POGs were associated with chemically reactive biocides (e.g. hydrogen peroxide) and biocides that cause cytoplasmic proteins denaturation and cell contents coagulation (e.g. alcohol).
+Accessory genomic determinants for increased MICs to BC and DDAC mainly characterized food strains from phylogenetically distant CCs collected across Europe, suggesting that these MGEs represent pleiotropic key-markers promoting and spreading QACs tolerance in Lm populations. Screening these MGEs could assist in improving decision-making for monitoring biocide-tolerant genotypes throughout the food chain.&lt;/p&gt;
+&lt;p&gt;During my Master degree in Food Science and Technology (2011-2014), I specialised in molecular typing of bacterial pathogens applied to Food Safety at the Department of Agriculture and Food Science of the University of Bologna (Italy). In my PhD (2014-2018), I trained in microbial genomics and bioinformatics, which became the main tools of my research activities. I, therefore, carried out international research projects within the objectives of the European project COMPARE (WP4 and 7) and in collaboration with the research team supported by the INNUENDO project under the supervision of Prof. Mirko Rossi. My thesis focused on the surveillance and persistence investigations of foodborne pathogens (e.g. Listeria monocytogenes and Salmonella enterica) along the food chain, in particular Italian swine chain and rabbit meat cutting plant, combining phenotypic and genomics methods. During my postdoctoral fellowships (2018-present) at the French agency for food safety (Maisons-Alfort lab, ANSES), I continued to apply advanced microbial genomic methods for (i) assessing the persistence and cold adaption of L. monocytogenes from ready-to-eat industries (ii) designing genome databases for the source attribution of monophasic S. Typhimurium (iii) implementing logistic regression models for source attribution based on accessory genes, and (iv) rapidly detecting outbreak-related foodborne pathogens using non-parametric tests. I currently manage collaborative research projects within the WP4 of the One Health EJP LISTADAPT focusing on the discovery of genomic features associated with antimicrobial resistance of L. monocytogenes combining phenotypic traits, phylogenomic and pangenome-wide association study. &lt;a href=&quot;https://orcid.org/0000-0002-7865-961X&quot;&gt;https://orcid.org/0000-0002-7865-961X&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Whole genome sequencing reveals limited within-host variability in Neisseria gonorrhoeae from multiple anatomical sites&lt;/h2&gt;
+&lt;p&gt;Neisseria gonorrhoeae is a major public health threat due to increasing incidence and antimicrobial resistance. Mathematical modelling and genomic analyses are powerful methods for investigating transmission dynamics of N. gonorrhoeae; however, both approaches often make the implicit assumption that N. gonorrhoeae isolates at different anatomical sites within the same patient are the same strain, which may confound accurate assessment of evolution and transmission dynamics. This study examined a collection of N. gonorrhoeae isolates from 2011-2019 from patients that had N. gonorrhoeae detected at multiple anatomical sites. We used whole genome sequencing (WGS) and a variety of bioinformatic approaches (e.g. differing reference genomes and filtering of SNPs in repeats, mobile genetic elements and recombinant regions) to determine the within-host genetic diversity. Thirty-seven patients had cultured N. gonorrhoeae from two or more anatomical sites (urogenital, anorectal or oropharyngeal), with a final dataset of 105 isolates. In 35/37 (95%) patients, infections were the same strain, with identical MLST and NG-MAST profiles. Pairwise comparisons of the core-genome SNP alignment indicated that the median intra-patient SNP distance was zero SNPs, with a range of 0-18. Additionally, there were four groups of patient isolates that clustered together with identical MLST and a maximum pairwise SNP distances ≤18 SNPs, which was within the same range as the maximum within-host diversity, indicating the likelihood that patients within each cluster were involved in the same transmission network. Our data demonstrates that in most cases, the same strain of N. gonorrhoeae causes infection at multiple sites, however WGS data alone cannot differentiate between the same infecting strain or reinfections from the same transmission network. &lt;/p&gt;
+&lt;p&gt;Dr Melinda Ashcroft was awarded her PhD from the University of Queensland, Australia in early 2019, investigating the roles of mobile genetic elements, antimicrobial resistance and DNA methylation in the evolution of Escherichia coli lineages. Melinda is now a Postdoctoral Research Fellow in Microbial Bioinformatics at the Peter Doherty Institute for Infection and Immunity at the University of Melbourne, Australia. Her work focuses on genomic epidemiology, transmission, evolution and antimicrobial resistance of pathogenic Neisseria spp. Melinda is also passionate about science communication and is a current Australian Society of Microbiology Communications Ambassador. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Session 1, 15th April 2020]]></title><description><![CDATA[With talks from Zhemin Zhou, Dan Fornika and Dag Harmsen]]></description><link>https://lumen.netlify.com/posts/session-1/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/session-1/</guid><pubDate>Wed, 15 Apr 2020 15:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Schedule&lt;/h1&gt;
+&lt;p&gt;Time: 16:00 15 April 2020 (UTC) &lt;/p&gt;
+&lt;p&gt;Zoom link: Coming soon.&lt;/p&gt;
+&lt;p&gt;Discord link: &lt;a href=&quot;https://discord.gg/WmuRbD&quot;&gt;https://discord.gg/WmuRbD&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;15:00 &lt;strong&gt;EnteroBase: exploit core genomic diversity of bacterial pathogens&lt;/strong&gt;
+Zhemin Zhou (University of Warwick)  &lt;/li&gt;
+&lt;li&gt;15:30 &lt;strong&gt;Intro to IRIDA Pipeline Plugins&lt;/strong&gt;&lt;br&gt;
+Dan Fornika (BCCDC Public Health Laboratory)&lt;/li&gt;
+&lt;li&gt;16:00 &lt;strong&gt;cgMLST Re-visited: Evolvement and Challenges&lt;/strong&gt;&lt;br&gt;
+Dag Harmsen (Univ. Münster, Germany)   &lt;/li&gt;
+&lt;li&gt;16:30 &lt;strong&gt;Virtual coffee break&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#header h1 a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; block&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 300px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h2&gt;EnteroBase: exploit core genomic diversity of bacterial pathogens&lt;/h2&gt;
+&lt;p&gt;EnteroBase is an integrated software environment which supports the identification of global population structures within several bacterial genera. EnteroBase has currently assembled more than 400,000 genomes from Illumina short reads from Salmonella, Escherichia and five other bacterial genera, and genotyped most of these genomes by core genome Multilocus Sequence Typing (cgMLST). Hierarchical clustering of cgMLST sequence types allows mapping a new bacterial strain to predefined population structures at multiple levels of resolution and thus dynamic tracking of transmission chains. The interactive graphical user interface in EnteroBase eases the access of large scale bacterial genomic data and facilitates international data sharing and collaborations. I demonstrated the use of EnteroBase with multiple examples in Salmonella and Escherichia (30 mins)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zheminzhou&quot;&gt;https://github.com/zheminzhou&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Intro to IRIDA Pipeline Plugins&lt;/h2&gt;
+&lt;p&gt;Quick intro to the IRIDA system (irida.ca), followed by brief discussion of how to develop your own ‘Pipeline Plugins’&lt;/p&gt;
+&lt;p&gt;Dan Fornika is a Molecular Biologist + Bioinformatician = ‘Genomics Specialist’ (&lt;a href=&quot;https://github.com/dfornika&quot;&gt;https://github.com/dfornika&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;cgMLST Re-visited: Evolvement and Challenges&lt;/h2&gt;
+&lt;p&gt;Dr. Dag Harmsen is an MD specialized in Clinical Microbiology and Infectious Diseases Epidemiology. Since 2004 he holds a professorship at the Medical Faculty of the University Münster, Germany. His scientific interests focus around molecular diagnostics, epidemiology, and phylogeny of micro-organisms. He published the world-wide first study that applied the Bruker MALDI ToF MS system in microbiological diagnostics (JCM 2008; 46:1946). He earned quite some recognition for early real-time application of benchtop NGS sequencing and first application of what later become known as core genome MLST (cgMLST) genome-wide allele calling during the 2011 German STEC O104:H4 outbreak (PLoS ONE 2011; 6:e22751). More recently he published a highly noted NGS benchtop machine comparison (Nat Biotechnol 2013; 31:294). However, he is best known for delivering for more than 20 years popular applied microbiology bioinformatics solutions - like spa-typing for MRSA (JCM 2003; 41:5442) or the MIRU-VNTR service for M. tuberculosis typing (Nucleic Acids Res 2010; 38:W326).&lt;/p&gt;
+&lt;p&gt;Dr. Harmsen is also co-founder (2003), shareholder, and co-managing director of Ridom GmbH (Münster, Germany). Ridom develops bioinformatics software (most notable StaphType and SeqSphere+) for clinical and public health microbiology sequence (Sänger and WGS) analysis. From 2005 until 2014 he was a member of the Executive Board of the ‘International Committee on Systematics of Prokaryotes’ (ICSP) of the International Union of Microbiological Societies (IUMS). From 2007 until July 2012 he served in the ‘Professional Development Committee’ of the American Society for Microbiology (ASM). Finally, Dr. Harmsen was technical advisor for NGS based surveillance of ECDC, EFSA, WHO, FAO, US Government Accountability Office, and US National Sciences Academy.&lt;/p&gt;</content:encoded></item></channel></rss>
