@@ -4,7 +4,7 @@ date: "2020-04-15T15:00:00Z"
 layout: post
 draft: false
 path: "/posts/session-1/"
-category: "Session schedule"
+category: "Session Schedule"
 tags:
   - "Population genetics and Microbial epidemiology"
   - "Bioinformatics software and protocols"
