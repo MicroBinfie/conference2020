@@ -4,7 +4,7 @@ layout: page
 path: "/about"
 ---
 
-Given that a lot of scientific meetings have been cancelled or postponed, the microbinfie podcast  (https://soundcloud.com/microbinfie) is organizing a "virtual conference" so that we can still share our science. We working on ways to best translate the conference experience into a virtual meeting, including the social/networking aspect. Sessions will start after mid-April. Each session is scheduled every Wednesday, running over several weeks. The dates include:
+Given that a lot of scientific meetings have been cancelled or postponed, the Micro Binfie podcast  (https://soundcloud.com/microbinfie) is organizing a "virtual conference" so that we can still share our science. We working on ways to best translate the conference experience into a virtual meeting, including the social/networking aspect. Sessions will start after mid-April. Each session is scheduled every Wednesday, running over several weeks. The dates include:
 
 * 15th April 2020
 * 22nd April 2020
@@ -16,10 +16,10 @@ Generally, talks will include microbes - viruses, bacteria, fungi, etc - and the
 Topics include: 
 
 * **Microbial ecology and evolution**  
-    This topic relates to microbes in their relationship in the wider environment. This can be represented in different ways, either as a network of functional systems or interplay of  species. We are interested in both. Talks that would present how we measure such relationships would also be welcome.
+    This topic relates to microbes in their relationship in the wider environment. This can be represented in different ways,either as a network of functional systems or interplay of  species. We are interested in both. Talks that would present how we measure such relationships would also be welcome.
 * **Clinical microbiology**  
     This topic relates to microbial pathogens and their genomics. Talks in this session would naturally lean to a public health application, but this doesn't have to be explicitly demonstrated.
 * **Population genetics and Microbial epidemiology**  
-    This topic relates to the genetic differences within and without populations. This includes broad brush phenomena  like adaptation, speciation and population structure; and the detailed forensics of outbreaks.
+    This topic relates to the genetic differences within and without populations. This includes broad brush phenomena like adaptation, speciation and population structure; and the detailed forensics of outbreaks.
 * **Bioinformatics protocols and methods**  
     This topic will have talks present algorithms, paradigms and protocols of interest to the microbial genomics and bioinformatics community.

@@ -8,6 +8,8 @@ Microbial Bioinformatics is a rapidly changing field marrying computer science a
 
 The hosts are Dr. Lee Katz from the Centres for Disease Control and Prevention (US), Dr. Nabil-Fareed Alikhan and Dr. Andrew Page both from Quadram Institute Bioscience (UK) and bring together years of experience in microbial bioinformatics.
 
-The opinions expressed here are our own and do not necessarily reflect the views of Centres for Disease Control and Prevention or Quadram Institute Bioscience.
+The opinions expressed on the show are our own and do not necessarily reflect the views of Centres for Disease Control and Prevention or Quadram Institute Bioscience.
 
 Question and comments? microbinfie@gmail.com
+
+https://soundcloud.com/microbinfie

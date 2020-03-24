@@ -4,10 +4,11 @@ const pxtorem = require('postcss-pxtorem')
 const url = 'https://happykhan.github.io/conference2020/'
 
 module.exports = {
+  pathPrefix: `/conference2020`,
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Micro Binfie Virtual Conference 2020',
+    title: 'Micro Binfie virtual conference 2020',
     subtitle:
       'An online seminar series chaired by the Micro Binfie Podcast',
     copyright: '© All rights reserved.',
@@ -18,9 +19,17 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About',
+        label: 'About this meeting',
         path: '/about/',
       },
+      {
+        label: 'About Micro Binfie',
+        path: '/about-podcast/',
+      },
+      {
+        label: 'How to connect',
+        path: '/access/',
+      },            
       {
         label: 'Register to attend',
         path: '/register/',
