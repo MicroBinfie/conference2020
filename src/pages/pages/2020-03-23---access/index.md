@@ -1,31 +1,27 @@
 ---
-title: "Contact me"
+title: "How to join a session"
 layout: page
-path: "/contact"
+path: "/access"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Each session will be run for about two hours. Sessions will begin and end with a virtual "coffee break" through discord, this will enable attendees to interact and ask questions on a casual platform. We will switch to a zoom webinar to present the talks. So for each session you shoud, 
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+* Join the conference Discord server and interact with attendees.
+* Observe the code of conduct
+* Switch to the speaking session, which will run through Zoom. Links to each session will be posted closer to the date.
+* After a speaking session, return back to the discord for questions and discussion. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+## Connecting to Discord
+A conference usually has a brick and mortar venue where people and mingle, and talk science. For the virtual conference, we will use Discord to fill in this role. Discord is a VoIP application that allows multiple text and voice channels and video conferencing for small groups. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+The server will be running between speaking sessions if you want to continue the conversation. Zoom is free to download and install, and available on all computer operating systems and most mobile devices.
 
-## Header Level 2
+https://discord.gg/WmuRbD
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+## Connecting to Zoom
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+The talks will be run through zoom. Links will be posted here or in the discord before each session. It is best to have zoom installed and tested on your device before the session begins. 
 
-### Header Level 3
+Zoom is free to download and install, and available on all computer operating systems and most mobile devices.
 
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. 
+https://zoom.us/download

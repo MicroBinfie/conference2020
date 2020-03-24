@@ -31,8 +31,8 @@ The human- and animal-adapted lineages of the Mycobacterium tuberculosis complex
 
 https://www.bradford.ac.uk/staff/cmeehan2
 
-## Machine Learning and Whole Genome Sequencing: Dragging classical method of Legionella pneumophila serotyping, kicking and screaming, into the 21st century
-
+## Machine Learning and Whole Genome Sequencing: Dragging classical method of Legionella pneumophila serotyping, kicking and screaming, into the 21st century - About the speaker
+Presented by Shatavia Morrison who is a Bioinformatician at the CDC (NCIRD/DBD/RDB) - Respiratory Diseases Branch
 
 ## Combating shigellosis in endemic settings with pathogen genomic 
 The Global Enteric Multicentre Study (GEMS) identified Shigella as one of the leading causes of moderate-to-severe diarrhoea in children across seven African and Asian countries. However, increasing antimicrobial resistance (AMR) and lack of a licensed vaccine, means that treatment and management options for shigellosis are limited. Whole-genome sequencing analysis (WGSA) can be effectively used to investigate AMR and epidemiological surveillance of Shigella, but this has yet to be applied in countries where childhood mortality rates are the highest and the disease is endemic. Here, we performed WGSA of Shigella isolates from GEMS (255 S. sonnei and 759 S. flexneri) to explore the implications of AMR and genetic diversity relating to vaccination, to improve interventions and management of shigellosis.

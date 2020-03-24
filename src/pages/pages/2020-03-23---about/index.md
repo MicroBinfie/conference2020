@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About this meeting"
 layout: page
 path: "/about"
 ---
@@ -11,9 +11,7 @@ Given that a lot of scientific meetings have been cancelled or postponed, the mi
 * 29th April 2020
 * 6th May 2020
 
-
 Generally, talks will include microbes - viruses, bacteria, fungi, etc - and the talks will have a component of shotgun sequencing, and downstream bioinformatics analysis. Talks do not have to be limited to this scope, i.e. if wet lab results are required to present a clear narrative then they should, by all means, be included.  Purely methodological presentations are also welcome. Speakers can choose how long they wish to speak (up to 30 minutes). 
-
 
 Topics include: 
 
