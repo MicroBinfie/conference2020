@@ -26,53 +26,53 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-e6d7c98c3832ad4fd286.js"
+    "url": "webpack-runtime-80a855906e12a6998867.js"
   },
   {
-    "url": "app-7d28353882486a274b01.js"
+    "url": "app-f97e0510293a1073f913.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-c5cb64bc0edabf3c9d7d.js"
   },
   {
     "url": "index.html",
-    "revision": "c83f4b6cc6b992d0f5881d68fc4888e4"
+    "revision": "d3fa049f68e93aa9aa176952abebe214"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "484447f84af2d2be9ed5d859070afbff"
+    "revision": "fcf68974f80830707bcbfe6d44bd57a2"
   },
   {
-    "url": "2.eac03220ef9302b061c7.css"
+    "url": "2.462b440b4b1b5df626b3.css"
   },
   {
     "url": "component---src-pages-index-jsx.69a945a11e23dfafac91.css"
   },
   {
-    "url": "component---src-pages-index-jsx-0df621e89a2a3dd176b2.js"
+    "url": "component---src-pages-index-jsx-ce9546717bcd368250e1.js"
   },
   {
-    "url": "1-c920d263a4011fb6b820.js"
+    "url": "1-deeb871e12479340903a.js"
   },
   {
     "url": "0-67c09113654780576fac.js"
   },
   {
-    "url": "3-0f39f1418f3745c0ba35.js"
+    "url": "3-449755f3954bae9e5e9a.js"
   },
   {
-    "url": "2-5746ab2e5af09a226187.js"
+    "url": "2-5286fb1e7769386fb654.js"
   },
   {
-    "url": "static/d/842/path---index-6a9-kaAbf0l6Dsa13U3pS6pUPA3ju4.json",
-    "revision": "dada8587bbb98c41aec66a8b163ac45b"
+    "url": "static/d/765/path---index-6a9-ENWntqxWhImdD79CugJwsLDLhM.json",
+    "revision": "360ecff4a572e0ffded624d8af579c8a"
   },
   {
     "url": "component---src-pages-404-jsx-63a7409d3a2fbf07d633.js"
   },
   {
-    "url": "static/d/650/path---404-html-516-62a-nYeeYKRdN6QQ0Zm2b30ISFdSEE.json",
-    "revision": "4910ca716e75b997fb57174583867241"
+    "url": "static/d/878/path---404-html-516-62a-OGR3ZnOOieYCXNSNF7Gpb44lzxc.json",
+    "revision": "7b73cc7e6215904153cf7f6bd261b0aa"
   },
   {
     "url": "static/d/520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E.json",
@@ -82,7 +82,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/conference2020/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
