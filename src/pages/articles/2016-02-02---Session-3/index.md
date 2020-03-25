@@ -18,13 +18,13 @@ Zoom link: Coming soon.
 
 Discord link: https://discord.gg/WmuRbD
 
-* 15:00 **Discovery of a new lineage of *Mycobacterium tuberculosis*** 
+* **16:00 Discovery of a new lineage of *Mycobacterium tuberculosis*** 
   Conor Meehan (University of Bradford)  
-* 15:30 **Machine learning and whole genome sequencing: Dragging classical method of *Legionella pneumophila* serotyping, kicking and screaming, into the 21st century**  
+* **16:30 Machine learning and whole genome sequencing: Dragging classical method of *Legionella pneumophila* serotyping, kicking and screaming, into the 21st century**  
   Shatavia Morrison (CDC - NCIRD/DBD/RDB)
-* 16:00 **Combating *Shigellosis* in endemic settings with pathogen genomics**  
+* **17:00 Combating *Shigellosis* in endemic settings with pathogen genomics**  
   Rebecca Bengtsson (The University of Liverpool)   
-* 16:20 **Virtual coffee break**
+* **17:20 Virtual coffee break**
 
 ## Discovery of a new lineage of *Mycobacterium tuberculosis*
 The human- and animal-adapted lineages of the *Mycobacterium tuberculosis* complex (MTBC) are thought to have clonally expanded from a common progenitor in Africa. However, the molecular events that accompanied this emergence remain largely unknown. Here, we describe two MTBC strains isolated from patients with multidrug-resistant tuberculosis, representing an as-yet-unknown lineage, named Lineage 8 (L8), restricted to the African Great Lakes region. Using genome-based phylogenetic reconstruction, we show that L8 is a sister clade to the known MTBC lineages. Comparison with other complete mycobacterial genomes indicate that the divergence of L8 preceded the loss of the cobF genome region - involved in the cobalamin/vitamin B12 synthesis - and gene interruptions in a subsequent common ancestor shared by all other known MTBC lineages. This discovery further supports an East African origin for the MTBC and provides additional molecular clues on the ancestral genome reduction associated with adaptation to a pathogenic lifestyle.

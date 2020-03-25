@@ -19,13 +19,13 @@ Zoom link: Coming soon.
 
 Discord link: https://discord.gg/WmuRbD
 
-* 15:00 **From phylogenetics to phylogenomics: between bacterial strains and the tree of life**  
+* **16:00 From phylogenetics to phylogenomics: between bacterial strains and the tree of life**  
   Leonardo de Oliveira Martins  (Quadram Institute Bioscience)  
-* 15:30 **DEN-IM: dengue virus genotyping from amplicon and shotgun metagenomic sequencing**  
+* **16:30 DEN-IM: dengue virus genotyping from amplicon and shotgun metagenomic sequencing**  
   Inês Mendes (Instituto de Medicina Molecular)
-* 16:00 **Same same but different: Functional diversity despite identical 16S rRNA sequences**  
+* **17:00 Same same but different: Functional diversity despite identical 16S rRNA sequences**  
   Rebecca Ansorge (Quadram Institute Bioscience)   
-* 16:20 **Virtual coffee break**
+* **17:20 Virtual coffee break**
 
 ## From phylogenetics to phylogenomics: between bacterial strains and the tree of life
 With the amount and velocity of genomic data currently available, it became clear that no single gene, or even carefully selected gene sets, can provide a single evolutionary tree with confidence. We can therefore appreciate that apparently conflicting phylogenetic signals are not noise, but in fact reflect real biological phenomena ―  like duplications, lateral transfer, or ancestral polymorphisms. Phylogenomic models explicitly recognise this variation in evolutionary histories across the genome, allowing us to make most use of sequenced genomes. In this talk we will have an overview of popular models, as well as of emerging methodologies that can handle whole genomes from hundreds or thousands of samples.  We will also discuss favourite approaches in different fields, where the genomic sets may resemble closer a “tall” (fewer information from many samples) or a “wide” (fewer samples, with more information) data category.

@@ -18,13 +18,13 @@ Zoom link: Coming soon.
 
 Discord link: https://discord.gg/WmuRbD
 
-* 15:00 **EnteroBase: exploit core genomic diversity of bacterial pathogens** 
+* **16:00 EnteroBase: exploit core genomic diversity of bacterial pathogens** 
   Zhemin Zhou (University of Warwick)  
-* 15:30 **Intro to IRIDA Pipeline Plugins**  
+* **16:30 Intro to IRIDA Pipeline Plugins**  
   Dan Fornika (BCCDC Public Health Laboratory)
-* 16:00 **cgMLST Re-visited: Evolvement and Challenges**  
+* **17:00 cgMLST Re-visited: Evolvement and Challenges**  
   Dag Harmsen (Univ. Münster, Germany)   
-* 16:30 **Virtual coffee break**
+* **17:30 Virtual coffee break**
 
 ## EnteroBase: exploit core genomic diversity of bacterial pathogens
 EnteroBase is an integrated software environment which supports the identification of global population structures within several bacterial genera. EnteroBase has currently assembled more than 400,000 genomes from Illumina short reads from *Salmonella*, *Escherichia* and five other bacterial genera, and genotyped most of these genomes by core genome Multilocus Sequence Typing (cgMLST). Hierarchical clustering of cgMLST sequence types allows mapping a new bacterial strain to predefined population structures at multiple levels of resolution and thus dynamic tracking of transmission chains. The interactive graphical user interface in EnteroBase eases the access of large scale bacterial genomic data and facilitates international data sharing and collaborations. I demonstrated the use of EnteroBase with multiple examples in *Salmonella* and *Escherichia*.

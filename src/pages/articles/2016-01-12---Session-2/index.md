@@ -18,13 +18,13 @@ Zoom link: Coming soon.
 
 Discord link: https://discord.gg/WmuRbD
 
-* **15:00 Genomic Dynamics of Toxigenic *Vibrio cholerae***  
+* **16:00 Genomic Dynamics of Toxigenic *Vibrio cholerae***  
   Taylor Paisie (University of Florida)  
-* **15:30 Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in *Listeria monocytogenes* evolutionary lineages**  
+* **16:30 Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in *Listeria monocytogenes* evolutionary lineages**  
   Federica Palma (ANSES)
-* **15:50 Whole genome sequencing reveals limited within-host variability in *Neisseria gonorrhoeae* from multiple anatomical sites**  
+* **16:50 Whole genome sequencing reveals limited within-host variability in *Neisseria gonorrhoeae* from multiple anatomical sites**  
   Melinda Ashcroft (The Peter Doherty Institute of Infection and Immunity at The University of Melbourne)   
-* **16:20 Virtual coffee break**
+* **17:20 Virtual coffee break**
 
 ## Genomic dynamics of toxigenic *Vibrio cholerae* - About the speaker
 I am a PhD Candidate studying the phylodynamics of *Vibrio cholerae*.  I received by bachelor’s degree in Biology from Florida State University.  My current projects include studying the evolution of *V. cholerae* in Haiti and the Democratic Republic of Congo.  I am interested in studying computational techniques and methods to help conduct phylodynamic analysis on whole genomes of infectious disease pathogens.  In my free time I enjoy your typical nerd activities, such as discussing Game of Thrones at great lengths and playing video games too late into the night (only on the weekends of course).  I also enjoy practicing yoga and being anywhere on the water in Florida.  Also, I love my cats, Arya and Hamilton. 
