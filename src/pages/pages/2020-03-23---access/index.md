@@ -11,6 +11,12 @@ Each session will be run for about two hours. Sessions will begin and end with a
 * Switch to the speaking session, which will run through Zoom. Links to each session will be posted closer to the date.
 * After a speaking session, return back to the discord for questions and discussion. 
 
+
+## Things to do before April 12
+* Sign up and Test Zoom. There will be a session where you can test you connectivity prior to the event.
+* Sign up and test Discourse. There will be a session where you can test you connectivity prior to the event.
+
+
 ## Connecting to Discord
 A conference usually has a brick and mortar venue where people and mingle, and talk science. For the virtual conference, we will use Discord to fill in this role. Discord is a VoIP application that allows multiple text and voice channels and video conferencing for small groups. 
 
