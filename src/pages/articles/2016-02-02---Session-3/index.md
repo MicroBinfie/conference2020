@@ -14,7 +14,7 @@ description: "With talks from Conor Meehan, Shatavia Morrison and Rebecca Bengts
 
 Time: 16:00 22 April 2020 (UTC) 
 
-Zoom link: Coming soon.
+Zoom link: https://zoom.us/j/127026078
 
 Discord link: https://discord.gg/WmuRbD
 

@@ -15,7 +15,7 @@ description: "With talks from Leonardo de Oliveira Martins, Inês Mendes and Reb
 
 Time: 16:00 6 May 2020 (UTC) 
 
-Zoom link: Coming soon.
+Zoom link: https://zoom.us/j/804859753
 
 Discord link: https://discord.gg/WmuRbD
 

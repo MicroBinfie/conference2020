@@ -14,7 +14,7 @@ description: "With talks from Zhemin Zhou, Dan Fornika and Dag Harmsen"
 
 Time: 16:00 15 April 2020 (UTC) 
 
-Zoom link: Coming soon.
+Zoom link: https://zoom.us/j/282889053
 
 Discord link: https://discord.gg/WmuRbD
 

@@ -27,13 +27,17 @@ module.exports = {
         path: '/about-podcast/',
       },
       {
+        label: 'Code of conduct',
+        path: '/code-of-conduct/',
+      },        
+      {
         label: 'How to connect',
         path: '/access/',
       },            
       {
         label: 'Register to attend',
         path: '/register/',
-      },
+      },    
     ],
     author: {
       name: 'Micro Binfie Virtual Conference 2020',
