@@ -8,11 +8,11 @@ category: "Session Schedule"
 tags:
   - "Clinical microbiology"
   - "Population genetics and Microbial epidemiology"
-description: "With talks from Conor Meehan, Shatavia Morrison and Rebecca Bengtsson"
+description: "With talks from Conor Meehan, Leonardo de Oliveira Martins and Rebecca Bengtsson"
 ---
 # Schedule 
 
-Time: 16:00 22 April 2020 (UTC) 
+Time: 16:00 29 April 2020 (UTC) 
 
 Zoom link: https://zoom.us/j/127026078
 
@@ -20,8 +20,8 @@ Discord link: https://discord.gg/WmuRbD
 
 * **16:00 Discovery of a new lineage of *Mycobacterium tuberculosis*** 
   Conor Meehan (University of Bradford)  
-* **16:30 Machine learning and whole genome sequencing: Dragging classical method of *Legionella pneumophila* serotyping, kicking and screaming, into the 21st century**  
-  Shatavia Morrison (CDC - NCIRD/DBD/RDB)
+* **16:30 From phylogenetics to phylogenomics: between bacterial strains and the tree of life**  
+  Leonardo de Oliveira Martins  (Quadram Institute Bioscience)  
 * **17:00 Combating *Shigellosis* in endemic settings with pathogen genomics**  
   Rebecca Bengtsson (The University of Liverpool)   
 * **17:20 Virtual coffee break**
@@ -31,17 +31,14 @@ The human- and animal-adapted lineages of the *Mycobacterium tuberculosis* compl
 
 https://www.bradford.ac.uk/staff/cmeehan2
 
-## Machine learning and whole genome sequencing: Dragging classical method of *Legionella pneumophila* serotyping, kicking and screaming, into the 21st century
-**Background:** The majority of Legionnaire’s Dieses cases are due to a single species, *L. pneumophila*.  This species consists of at least 17 serogroups, with serogroup 1 (sg1) being most frequently isolated from clinical and environmental samples. While a number of tools are available for sequence-based identification of sg1 isolates, there are only antibody-based methods for discrimination among serogroups 2-17. With the bacterial genome sequences getting more readily available, there is an urgent need to develop sequence-based tools for identification of all *L. pneumophila* serogroups.
 
-**Methods:** We performed whole genome sequencing on 181 *L. pneumophila* isolates representing 14 different serogroups and aligned sequences to the *L. pneumophila* Philadelphia sg1 genome sequence. Isolate serogroup were previously characterized by direct fluorescent antibody and/or detection of sg1-specific wzm. A 30 kb sequence and gene presence/absence alignment was created for each isolate based on the lipopolysaccharide (LPS) biosynthesis region. The alignment matrix was used as input for the RandomForest and Caret packages in R. The RandomForest machine learning method with the kFolds cross validation was performed in order to identify genetic features that contained enough discriminatory power for *L. pneumophila* sg typing. A custom python script was also used to calculate the intra- and inter- pairwise nucleotide identity within the LPS region.
+## From phylogenetics to phylogenomics: between bacterial strains and the tree of life
+With the amount and velocity of genomic data currently available, it became clear that no single gene, or even carefully selected gene sets, can provide a single evolutionary tree with confidence. We can therefore appreciate that apparently conflicting phylogenetic signals are not noise, but in fact reflect real biological phenomena ―  like duplications, lateral transfer, or ancestral polymorphisms. Phylogenomic models explicitly recognise this variation in evolutionary histories across the genome, allowing us to make most use of sequenced genomes. In this talk we will have an overview of popular models, as well as of emerging methodologies that can handle whole genomes from hundreds or thousands of samples.  We will also discuss favourite approaches in different fields, where the genomic sets may resemble closer a “tall” (fewer information from many samples) or a “wide” (fewer samples, with more information) data category.
 
-**Results:** After the removal of conserved nucleotide positions, 24,546 features were used as input into random forest algorithm. The cross validation consisted of 10 sample sets each with ~ 160 isolates randomly selected. We excluded sg 11, 16, and 17 because they were represented by a single isolate. The cross-validation analysis resulted in approximately 73.5% model accuracy. Sg 1 -7, 9, and 13 had an error rate between 0 – 0.30 and for sg 8, 10, 12, 14, and 15 the error rate was >0.50. A pairwise identity analysis of the LPS regions revealed some serogroups are highly conserved (97.99% -100%), while others potentially have several representative sequences (95.5% -100%).  Also, several isolates had higher inter-sg similarity than intra-sg similarity. This suggests that not all sg have homogenous LPS regions and may represent independent origins for the same sg phenotype.  
+### About the speaker
+I am the Head of Phylogenomics of the Quadram Institute Bioscience, where I’ve been working for one year supporting and creating analysis of large data sets. Before that, I’ve held postdoctoral positions at the University of Lausanne/Swiss Institute of Bioinformatics, at the Imperial College London, and at the University of Vigo in Spain. I worked mainly with the development of phylogenetic models and tools at the genome scale, usually focused at the tree-of-life level. I did my PhD at the University of Tokyo, Japan, designing a Bayesian phylogenetic method for the inference of viral recombination.   
 
-**Conclusion:** The random forest approach revealed the LPS region as a promising target to construct diagnostic assays to detect non-Lp1 isolates. With the transition to sequencing as a first approach during *L. pneumophila* outbreak investigations, this model may be used to help elucidate traditional epidemiology metadata. This initial work is the foundation to construct a refined predictive model for *L. pneumophila* serogroups.
-
-*The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention.*
-
+https://leomrtns.github.io
 
 ## Combating shigellosis in endemic settings with pathogen genomic 
 The Global Enteric Multicentre Study (GEMS) identified *Shigella* as one of the leading causes of moderate-to-severe diarrhoea in children across seven African and Asian countries. However, increasing antimicrobial resistance (AMR) and lack of a licensed vaccine, means that treatment and management options for shigellosis are limited. Whole-genome sequencing analysis (WGSA) can be effectively used to investigate AMR and epidemiological surveillance of Shigella, but this has yet to be applied in countries where childhood mortality rates are the highest and the disease is endemic. Here, we performed WGSA of Shigella isolates from GEMS (255 *S. sonnei* and 759 *S. flexneri*) to explore the implications of AMR and genetic diversity relating to vaccination, to improve interventions and management of shigellosis.

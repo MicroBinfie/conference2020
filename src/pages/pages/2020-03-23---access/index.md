@@ -14,7 +14,7 @@ Each session will be run for about two hours. Sessions will begin and end with a
 
 ## Things to do before April 12
 * Sign up and Test Zoom. There will be a session where you can test you connectivity prior to the event.
-* Sign up and test Discourse. There will be a session where you can test you connectivity prior to the event.
+* Sign up and test Discord. There will be a session where you can test you connectivity prior to the event.
 
 
 ## Connecting to Discord
