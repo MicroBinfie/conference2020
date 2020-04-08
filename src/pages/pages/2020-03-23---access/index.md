@@ -22,12 +22,18 @@ A conference usually has a brick and mortar venue where people and mingle, and t
 
 The server will be running between speaking sessions if you want to continue the conversation. Zoom is free to download and install, and available on all computer operating systems and most mobile devices.
 
-https://discord.gg/WmuRbD
+https://discord.gg/N9dVFJp
 
 ## Connecting to Zoom
 
 The talks will be run through zoom. Links will be posted here or in the discord before each session. It is best to have zoom installed and tested on your device before the session begins. 
 
-Zoom is free to download and install, and available on all computer operating systems and most mobile devices.
+Zoom is free to download and install, and available on all computer operating systems and most mobile devices. https://zoom.us/download
 
-https://zoom.us/download
+From Apr 15, 2020 04:00 PM Universal Time UTC
+
+Every week on Wed, until May 6, 2020, 4 occurrence(s)
+* Apr 15, 2020 04:00 PM
+* Apr 22, 2020 04:00 PM
+* Apr 29, 2020 04:00 PM
+* May 6, 2020 04:00 PM

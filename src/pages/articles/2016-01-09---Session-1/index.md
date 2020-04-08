@@ -12,11 +12,13 @@ description: "With talks from Zhemin Zhou, Dan Fornika and Dag Harmsen"
 ---
 # Schedule 
 
-Time: 16:00 15 April 2020 (UTC) 
+Time: 16:00 15 April 2020 (UTC)
 
-Zoom link: https://zoom.us/j/282889053
+Zoom link: https://cdc.zoomgov.com/j/1613270485
 
-Discord link: https://discord.gg/WmuRbD
+Discord link: https://discord.gg/N9dVFJp
+
+Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
 
 * **16:00 EnteroBase: exploit core genomic diversity of bacterial pathogens** 
   Zhemin Zhou (University of Warwick)  

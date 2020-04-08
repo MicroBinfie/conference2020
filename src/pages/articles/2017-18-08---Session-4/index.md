@@ -10,14 +10,16 @@ tags:
   - "Microbial ecology and evolution"
 description: "With talks from Shatavia Morrison, Inês Mendes and Rebecca Ansorge"
 ---
-
 # Schedule 
 
 Time: 16:00 6 May 2020 (UTC) 
 
-Zoom link: https://zoom.us/j/804859753
+Zoom link: https://cdc.zoomgov.com/j/1613270485
 
-Discord link: https://discord.gg/WmuRbD
+Discord link: https://discord.gg/N9dVFJp
+
+Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
+
 * **16:00 Machine learning and whole genome sequencing: Dragging classical method of *Legionella pneumophila* serotyping, kicking and screaming, into the 21st century**  
   Shatavia Morrison (CDC - NCIRD/DBD/RDB)  
 * **16:30 DEN-IM: dengue virus genotyping from amplicon and shotgun metagenomic sequencing**  

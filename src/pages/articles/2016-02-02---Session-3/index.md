@@ -14,9 +14,11 @@ description: "With talks from Conor Meehan, Leonardo de Oliveira Martins and Reb
 
 Time: 16:00 29 April 2020 (UTC) 
 
-Zoom link: https://zoom.us/j/127026078
+Zoom link: https://cdc.zoomgov.com/j/1613270485
 
-Discord link: https://discord.gg/WmuRbD
+Discord link: https://discord.gg/N9dVFJp
+
+Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
 
 * **16:00 Discovery of a new lineage of *Mycobacterium tuberculosis*** 
   Conor Meehan (University of Bradford)  

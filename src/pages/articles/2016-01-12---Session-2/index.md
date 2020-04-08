@@ -14,9 +14,11 @@ description: "With talks from Taylor Paisie, Federica Palma and Melinda Ashcroft
 
 Time: 16:00 22 April 2020 (UTC) 
 
-Zoom link: https://zoom.us/j/626428694
+Zoom link: https://cdc.zoomgov.com/j/1613270485
 
-Discord link: https://discord.gg/WmuRbD
+Discord link: https://discord.gg/N9dVFJp
+
+Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
 
 * **16:00 Genomic Dynamics of Toxigenic *Vibrio cholerae***  
   Taylor Paisie (University of Florida)  
