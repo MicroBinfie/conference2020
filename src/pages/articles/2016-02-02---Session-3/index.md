@@ -31,6 +31,9 @@ Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
 ## Discovery of a new lineage of *Mycobacterium tuberculosis*
 The human- and animal-adapted lineages of the *Mycobacterium tuberculosis* complex (MTBC) are thought to have clonally expanded from a common progenitor in Africa. However, the molecular events that accompanied this emergence remain largely unknown. Here, we describe two MTBC strains isolated from patients with multidrug-resistant tuberculosis, representing an as-yet-unknown lineage, named Lineage 8 (L8), restricted to the African Great Lakes region. Using genome-based phylogenetic reconstruction, we show that L8 is a sister clade to the known MTBC lineages. Comparison with other complete mycobacterial genomes indicate that the divergence of L8 preceded the loss of the cobF genome region - involved in the cobalamin/vitamin B12 synthesis - and gene interruptions in a subsequent common ancestor shared by all other known MTBC lineages. This discovery further supports an East African origin for the MTBC and provides additional molecular clues on the ancestral genome reduction associated with adaptation to a pathogenic lifestyle.
 
+### About the speaker
+Conor Meehan is a lecturer in molecular microbiology at the University of Bradford. His research focusses on the evolution and epidemiology of microbes, primarily pathogenic mycobacteria such as *M. tuberculosis, M. ulcerans* and *M. leprae*, with an emphasis on whole genome sequencing coupled with phylogenetics-based analyses
+
 https://www.bradford.ac.uk/staff/cmeehan2
 
 

@@ -42,6 +42,8 @@ Dan Fornika is a Molecular Biologist + Bioinformatician = 'Genomics Specialist' 
 
 Video: https://youtu.be/ZSe-2TWrs8I
 
+Slides: [Intro to IRIDA Pipeline Plugins](./Intro-to-IRIDA-Pipeline-Plugins.pdf)
+
 ## cgMLST re-visited: Evolvement and challenges - About the speaker
 Dr. Dag Harmsen is an MD specialized in Clinical Microbiology and Infectious Diseases Epidemiology. Since 2004 he holds a professorship at the Medical Faculty of the University Münster, Germany. His scientific interests focus around molecular diagnostics, epidemiology, and phylogeny of micro-organisms. He published the world-wide first study that applied the Bruker MALDI ToF MS system in microbiological diagnostics (JCM 2008; 46:1946). He earned quite some recognition for early real-time application of benchtop NGS sequencing and first application of what later become known as core genome MLST (cgMLST) genome-wide allele calling during the 2011 German STEC O104:H4 outbreak (PLoS ONE 2011; 6:e22751). More recently he published a highly noted NGS benchtop machine comparison (Nat Biotechnol 2013; 31:294). However, he is best known for delivering for more than 20 years popular applied microbiology bioinformatics solutions - like spa-typing for MRSA (JCM 2003; 41:5442) or the MIRU-VNTR service for *M. tuberculosis* typing (Nucleic Acids Res 2010; 38:W326).
 

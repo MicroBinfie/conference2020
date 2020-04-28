@@ -20,12 +20,12 @@ Discord link: https://discord.gg/N9dVFJp
 
 Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
 
-* **16:00 Genomic Dynamics of Toxigenic *Vibrio cholerae***  
-  Taylor Paisie (University of Florida)  
-* **16:30 Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in *Listeria monocytogenes* evolutionary lineages**  
-  Federica Palma (ANSES)
-* **16:50 Whole genome sequencing reveals limited within-host variability in *Neisseria gonorrhoeae* from multiple anatomical sites**  
+* **16:00 Whole genome sequencing reveals limited within-host variability in *Neisseria gonorrhoeae* from multiple anatomical sites**  
   Melinda Ashcroft (The Peter Doherty Institute of Infection and Immunity at The University of Melbourne)   
+* **16:30 Genomic Dynamics of Toxigenic *Vibrio cholerae***  
+  Taylor Paisie (University of Florida)  
+* **16:50 Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in *Listeria monocytogenes* evolutionary lineages**  
+  Federica Palma (ANSES)
 * **17:20 Virtual coffee break**
 
 ## Genomic dynamics of toxigenic *Vibrio cholerae* 
