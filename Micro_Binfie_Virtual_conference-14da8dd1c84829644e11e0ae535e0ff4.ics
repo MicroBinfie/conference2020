@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:Micro Binfie virtual conference
+NAME:Micro Binfie Virtual conference
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20200408T133837Z
+UID:20200408T133837Z-498045345@marudot.com
+DTSTART:20200415T160000Z
+DTEND:20200415T180000Z
+SUMMARY:Micro Binfie virtual conference session 1
+URL:https%3A%2F%2Fmicrobinfie.github.io%2Fconference2020%2F
+DESCRIPTION:Time: 16:00 15 April 2020 (UTC)\n\nZoom link: https://cdc.zoomgov.com/j/1613270485\n\nDiscord link: https://discord.gg/N9dVFJp\n\n    16:00 EnteroBase: exploit core genomic diversity of bacterial pathogens Zhemin Zhou (University of Warwick)\n\n    16:30 Intro to IRIDA Pipeline Plugins\n    Dan Fornika (BCCDC Public Health Laboratory)\n\n    17:00 cgMLST Re-visited: Evolvement and Challenges\n    Dag Harmsen (Univ. Münster\, Germany)\n\n    17:30 Virtual coffee break\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200408T133837Z
+UID:20200408T133837Z-1898082842@marudot.com
+DTSTART:20200422T160000Z
+DTEND:20200422T180000Z
+SUMMARY:Micro Binfie virtual conference session 2
+URL:https%3A%2F%2Fmicrobinfie.github.io%2Fconference2020%2F
+DESCRIPTION:Time: 16:00 22 April 2020 (UTC)\n\nZoom link: https://cdc.zoomgov.com/j/1613270485\n\nDiscord link: https://discord.gg/N9dVFJp\n\n    16:00 Genomic Dynamics of Toxigenic Vibrio cholerae\n    Taylor Paisie (University of Florida)\n\n    16:30 Accessory genes located in mobile genetic elements drive the adaption to chemical biocides in Listeria monocytogenes evolutionary lineages\n    Federica Palma (ANSES)\n\n    16:50 Whole genome sequencing reveals limited within-host variability in Neisseria gonorrhoeae from multiple anatomical sites\n    Melinda Ashcroft (The Peter Doherty Institute of Infection and Immunity at The University of Melbourne)\n\n    17:20 Virtual coffee break\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200408T133837Z
+UID:20200408T133837Z-549301398@marudot.com
+DTSTART:20200429T160000Z
+DTEND:20200429T180000Z
+SUMMARY:Micro Binfie virtual conference session 3
+URL:https%3A%2F%2Fmicrobinfie.github.io%2Fconference2020%2F
+DESCRIPTION:Time: 16:00 29 April 2020 (UTC)\n\nZoom link: https://cdc.zoomgov.com/j/1613270485\n\nDiscord link: https://discord.gg/N9dVFJp\n\n    16:00 Discovery of a new lineage of Mycobacterium tuberculosis Conor Meehan (University of Bradford)\n\n    16:30 From phylogenetics to phylogenomics: between bacterial strains and the tree of life\n    Leonardo de Oliveira Martins (Quadram Institute Bioscience)\n\n    17:00 Combating Shigellosis in endemic settings with pathogen genomics\n    Rebecca Bengtsson (The University of Liverpool)\n\n    17:20 Virtual coffee break\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200408T133837Z
+UID:20200408T133837Z-105519146@marudot.com
+DTSTART:20200506T160000Z
+DTEND:20200506T180000Z
+SUMMARY:Micro Binfie virtual conference session 4
+URL:https%3A%2F%2Fmicrobinfie.github.io%2Fconference2020%2F
+DESCRIPTION:Time: 16:00 6 May 2020 (UTC)\n\nZoom link: https://cdc.zoomgov.com/j/1613270485\n\nDiscord link: https://discord.gg/N9dVFJp\n\n    16:00 Machine learning and whole genome sequencing: Dragging classical method of Legionella pneumophila serotyping\, kicking and screaming\, into the 21st century\n    Shatavia Morrison (CDC - NCIRD/DBD/RDB)\n\n    16:30 DEN-IM: dengue virus genotyping from amplicon and shotgun metagenomic sequencing\n    Inês Mendes (Instituto de Medicina Molecular)\n\n    17:00 Same same but different: Functional diversity despite identical 16S rRNA sequences\n    Rebecca Ansorge (Quadram Institute Bioscience)\n\n    17:20 Virtual coffee break\n
+END:VEVENT
+END:VCALENDAR
