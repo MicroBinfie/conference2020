@@ -26,7 +26,7 @@ Add to your calendar: [.iCal file](./Micro_Binfie_Virtual_conference.ics)
   Inês Mendes (Instituto de Medicina Molecular)
 * **17:00 Same same but different: Functional diversity despite identical 16S rRNA sequences**  
   Rebecca Ansorge (Quadram Institute Bioscience)   
-* **17:20 Virtual coffee break**
+* **17:30 Virtual coffee break**
 
 ## Machine learning and whole genome sequencing: Dragging classical method of *Legionella pneumophila* serotyping, kicking and screaming, into the 21st century
 **Background:** The majority of Legionnaire’s Dieses cases are due to a single species, *L. pneumophila*.  This species consists of at least 17 serogroups, with serogroup 1 (sg1) being most frequently isolated from clinical and environmental samples. While a number of tools are available for sequence-based identification of sg1 isolates, there are only antibody-based methods for discrimination among serogroups 2-17. With the bacterial genome sequences getting more readily available, there is an urgent need to develop sequence-based tools for identification of all *L. pneumophila* serogroups.

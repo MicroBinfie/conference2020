@@ -38,6 +38,10 @@ module.exports = {
         label: 'Register to attend',
         path: '/register/',
       },    
+      {
+        label: 'Submit feedback',
+        path: '/feedback/',
+      },    
     ],
     author: {
       name: 'Micro Binfie Virtual Conference 2020',
